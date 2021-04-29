@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.cache
+C:\Users\User\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\User\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\User\source\repos\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.g.resources
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\View\MainWindow.baml
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\source\repos\Курсач\Курсач\obj\Debug\Курсач_MarkupCompile.lref
